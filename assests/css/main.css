@@ -1659,3 +1659,13 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+.profile-photo {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%; /* Makes it a circle */
+    display: block;
+    margin: 0 auto 20px auto; /* Centers it */
+    border: 3px solid #fff; /* White border */
+}
